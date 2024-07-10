@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
 
@@ -21,8 +21,8 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.munizcom">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="[mailto:pedro.sales.munizcom](https://www.instagram.com/azizbe_2131/)">
+    <img src="[https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red](https://w7.pngwing.com/pngs/704/270/png-transparent-social-media-instagram-login-graphy-ig-instagram-icon-rectangle-magenta-mobile-phones-thumbnail.png)" />
   </a>
   <a href="https://linke/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
