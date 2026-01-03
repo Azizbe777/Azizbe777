@@ -40,9 +40,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br />
-  <img
+ <img
     alt="snake eating my contributions"
-    src="https://raw.githubusercontent.com/Azizbe777/Azizbe777/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"
   />
 
 <br /><br /><br />
@@ -61,14 +61,14 @@
   />
   <img
     width="390"
-    src="https://github-readme-stats-Azizbe777.vercel.app/api?username=Azizbe777&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
     alt="readme stats"
   />
   <br />
   <img
     width="325"
     align="center"
-    src="https://github-readme-stats-Azizbe777.vercel.app/api/top-langs/?username=Azizbe777&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
     alt="top langs"
   />
 </div>
