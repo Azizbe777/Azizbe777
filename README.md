@@ -1,6 +1,6 @@
-<h1 align="center"></h1>
+<h1 align="center">Norpulatov Aziz</h1>
 
-<h3 align="center">Full-Stack Web | Mobile Developer</h3>
+<h2 align="center">Full-Stack Web | Mobile Developer</h2>
 
 <br />
 
@@ -25,9 +25,9 @@
 
 <hr />
 
-<p align="center">
-## Skill Set
-</p>
+<h2 align="center">
+Core Skill Set
+</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
