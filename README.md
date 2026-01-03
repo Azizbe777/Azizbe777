@@ -25,7 +25,9 @@
 
 <hr />
 
+<p align="center">
 ## Skill Set
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
