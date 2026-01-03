@@ -32,7 +32,7 @@ Core Skill Set
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=html,css,js,ts,py,django,php,laravel,react,next,vue,svelte,nodejs,tailwind,materialui,threejs,mongodb,postgres,firebase,supabase,gcp,aws,azure&perline=8" />
+      src="https://skillicons.dev/icons?i=html,css,js,ts,py,django,php,laravel,react,next,vue,svelte,nodejs,deno,tailwind,materialui,threejs,mongodb,postgres,firebase,supabase,gcp,aws,azure&perline=8" />
   </a>
 </p>
 
