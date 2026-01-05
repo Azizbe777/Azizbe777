@@ -14,7 +14,7 @@
       target="_blank"
     />
   </a>
-  <a href="" target="_blank">
+  <a href="https://aziz-portfolio-2026.vercel.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
       target="_blank"
